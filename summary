@@ -1,0 +1,14 @@
+project summary:
+
+Data Overview: Briefly describe what the data represents. For example, is it related to sales, operations, or another business function? 
+Mention the number of records (rows) and columns in the dataset.
+
+Key Insights: Identify any patterns, trends, or interesting findings in the data. 
+For example, if the data contains sales records, you could highlight the highest-selling products, peak sales periods, or any other relevant trends.
+
+Challenges Encountered: Mention any challenges you faced while working with the data, such as missing values, data inconsistencies, or complex data relationships.
+
+Tools & Techniques Used: Highlight the tools and techniques used to analyze the data. 
+For example, if you used Excel, Power BI, or Python, mention these along with any specific functions or methods (like pivot tables, charts, or data cleaning techniques).
+
+Outcome: Describe the result or outcome of the analysis, such as actionable insights or business decisions that were informed by the data.
